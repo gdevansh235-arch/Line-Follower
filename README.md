@@ -1,3 +1,5 @@
+<img width="982" height="808" alt="image" src="https://github.com/user-attachments/assets/fbcdf7f2-e76f-4b7c-8de4-b1fe95324b20" />
+
 # Line-Follower Robot
 
 A line-following robot that uses infrared (IR) sensors to detect a line on the floor and adjusts its motors to follow the path.
