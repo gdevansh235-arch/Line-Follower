@@ -303,4 +303,5 @@ Confirm the dimensions of the actual components and their mounting points.
 Resolve any remaining fit, clearance, stability, or compatibility issues.
 Finalise the component placement and BOM using verified specifications.
 Confirm the exact controller, IR sensors, motor driver, motors, and wiring before adapting and testing the firmware.
-Start:- 6:50 p.m. to 9:15 p.m. Time:- 3 hrs 45 mins
+ Time:- 3 hrs 45 mins
+***Day 7 was completed in day 6**
