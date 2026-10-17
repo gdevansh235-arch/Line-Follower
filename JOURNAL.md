@@ -1,3 +1,4 @@
+[Line_Follower_BOM.csv](https://github.com/user-attachments/files/33600991/Line_Follower_BOM.csv)
 # Line-Follower Robot — Project Journal
 
 ## Project Journal
@@ -158,3 +159,6 @@ Final design review completed; outstanding items should be verified before fabri
 
 Start:- 6:50 p.m. to 9:15 p.m.
 Time:- 3 hrs 45 mins
+[Line_Follower_BOM.csv](https://github.com/user-attachments/files/33600993/Line_Follower_BOM.csv)
+
+
