@@ -22,6 +22,9 @@ This journal records my progress while designing a line-following robot. It docu
 ### Day 1 Status
 Initial design research completed.
 
+Start:- 3:00 p.m. to 7:20 p.m.
+Time:- 4 hrs 20 mins
+
 ## Day 2 — Finalising the Design
 
 ### What I did
@@ -39,6 +42,9 @@ Initial design research completed.
 
 ### Day 2 Status
 Project concept selected and basic working principle studied.
+
+Start:- 5:00 p.m. to 8:30 p.m.
+Time:- 3 hrs 30 mins
 
 ## Day 3 — Starting the Chassis Model in Onshape
 
@@ -58,6 +64,9 @@ Project concept selected and basic working principle studied.
 ### Day 3 Status
 Onshape account created; chassis modelling and component-placement planning started.
 
+Start:- 10:00 a.m. to 2:30 p.m.
+Time:- 4 hrs 30 mins
+
 ## Day 4 — Building the Components
 
 ### What I did
@@ -75,6 +84,9 @@ Onshape account created; chassis modelling and component-placement planning star
 
 ### Day 4 Status
 Component modelling/building started.
+
+Start:- 2:00 p.m. to 7:35 p.m.
+Time:- 5 hrs 35 mins
 
 ## Day 5 — Component Placement and Chassis Checks
 
@@ -95,6 +107,9 @@ Component modelling/building started.
 ### Day 5 Status
 Component placement, stabilisation review, dimension checks, and component-specification research carried out.
 
+Start:- 5:00 p.m. to 9:30 p.m.
+Time:- 4 hrs 30 mins
+
 ## Day 6 — Creating the Bill of Materials (BOM)
 
 ### What I did
@@ -112,6 +127,9 @@ Component placement, stabilisation review, dimension checks, and component-speci
 
 ### Day 6 Status
 BOM preparation started.
+
+Start:- 8:50 a.m. to 12:40 p.m.
+Time:- 3 hrs 50 mins
 
 ## Day 7 — Final Check
 
@@ -137,4 +155,6 @@ Final design review completed; outstanding items should be verified before fabri
 - Resolve any remaining fit, clearance, stability, or compatibility issues.
 - Finalise the component placement and BOM using verified specifications.
 - Confirm the exact controller, IR sensors, motor driver, motors, and wiring before adapting and testing the firmware.
-- Add genuine Onshape screenshots and project photos as evidence of progress.
+
+Start:- 6:50 p.m. to 9:15 p.m.
+Time:- 3 hrs 45 mins
