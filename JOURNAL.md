@@ -61,7 +61,7 @@ Onshape account created; chassis modelling and component-placement planning star
 ## Day 4 — Building the Components
 
 ### What I did
-- Continued building/modeling the components for the robot.
+- Continued building/modelling the components for the robot.
 - Worked on developing the mechanical layout around the chassis.
 - Considered how the parts will fit together.
 
@@ -76,9 +76,65 @@ Onshape account created; chassis modelling and component-placement planning star
 ### Day 4 Status
 Component modelling/building started.
 
+## Day 5 — Component Placement and Chassis Checks
+
+### What I did
+- Worked on placing the robot components on the chassis.
+- Checked the planned component arrangement for stability and balance.
+- Reviewed chassis and component dimensions to identify possible fit or clearance issues.
+- Researched component specifications to help confirm dimensions, mounting requirements, and compatibility.
+
+### What I learned
+- Component placement affects the robot's balance, stability, and ease of assembly.
+- Checking dimensions before finalising the layout helps identify fit problems early.
+- Component specifications should be checked against the planned design rather than assumed.
+
+### Problems / Challenges
+- Final fit and compatibility depend on confirming the specifications of the actual components.
+
+### Day 5 Status
+Component placement, stabilisation review, dimension checks, and component-specification research carried out.
+
+## Day 6 — Creating the Bill of Materials (BOM)
+
+### What I did
+- Started preparing a Bill of Materials (BOM) for the line-follower robot.
+- Organised the components needed for the planned build.
+- Considered recording each part's name, quantity, specifications, and source or estimated cost where available.
+
+### What I learned
+- A BOM helps track the parts required to build the robot.
+- Listing quantities and specifications makes purchasing and assembly easier.
+- The BOM should match the final design and be updated when components change.
+
+### Problems / Challenges
+- Any unconfirmed component specifications, prices, or sources need to be verified before the BOM is treated as final.
+
+### Day 6 Status
+BOM preparation started.
+
+## Day 7 — Final Check
+
+### What I did
+- Reviewed the overall line-follower robot design.
+- Checked the planned chassis dimensions and component placement.
+- Reviewed stability, clearances, and component compatibility.
+- Checked the design and BOM for missing or inconsistent information.
+
+### What I learned
+- A final review can catch design issues before fabrication or assembly.
+- The chassis, component layout, and BOM should agree with one another.
+- Any unverified measurements or specifications should be confirmed before building.
+
+### Problems / Challenges
+- Final approval depends on resolving any outstanding dimension, fit, or component-specification checks.
+
+### Day 7 Status
+Final design review completed; outstanding items should be verified before fabrication or assembly.
+
 ## Next Steps
-- Continue the chassis and component models in Onshape.
 - Confirm the dimensions of the actual components and their mounting points.
-- Finalise component placement before completing the chassis.
+- Resolve any remaining fit, clearance, stability, or compatibility issues.
+- Finalise the component placement and BOM using verified specifications.
 - Confirm the exact controller, IR sensors, motor driver, motors, and wiring before adapting and testing the firmware.
 - Add genuine Onshape screenshots and project photos as evidence of progress.
